@@ -1,0 +1,1 @@
+var roof1=createSprite(0,height-600,800,10);
